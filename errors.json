@@ -1,0 +1,58 @@
+{
+  "errors": [
+    {
+      "type": "missing_template_info",
+      "image": "images/error-missing-template.png",
+      "title": "Template Info Missing",
+      "message": "The required 'templateInfo' field is missing. Please check your configuration."
+    },
+    {
+      "type": "license_not_provided",
+      "image": "images/error-no-license.png",
+      "title": "License Not Provided",
+      "message": "No license key has been provided. Please enter a valid license key to proceed."
+    },
+    {
+      "type": "license_invalid",
+      "image": "images/error-invalid-license.png",
+      "title": "Invalid License",
+      "message": "The provided license key is not valid. Please ensure you have entered it correctly."
+    },
+    {
+      "type": "license_expired",
+      "image": "images/error-expired-license.png",
+      "title": "License Expired",
+      "message": "Your license key has expired. Please renew your license to continue using this feature."
+    },
+    {
+      "type": "configuration_error",
+      "image": "images/error-configuration.png",
+      "title": "Configuration Error",
+      "message": "An error occurred in the configuration file. Please verify your settings."
+    },
+    {
+      "type": "server_error",
+      "image": "images/error-server.png",
+      "title": "Server Error",
+      "message": "Unable to connect to the server. Please try again later or contact support."
+    },
+    {
+      "type": "permission_denied",
+      "image": "images/error-permission.png",
+      "title": "Permission Denied",
+      "message": "You do not have the required permissions to access this feature."
+    },
+    {
+      "type": "feature_not_supported",
+      "image": "images/error-feature-not-supported.png",
+      "title": "Feature Not Supported",
+      "message": "This feature is not supported with your current license tier. Upgrade your license to access this feature."
+    },
+    {
+      "type": "unexpected_error",
+      "image": "images/error-unexpected.png",
+      "title": "Unexpected Error",
+      "message": "An unexpected error has occurred. Please try again later."
+    }
+  ]
+}
