@@ -2,7 +2,7 @@
   "errors": [
     {
       "type": "missing_template_info",
-      "image": "images/error-missing-template.png",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSe5sdXHBPReSBxDcuxBOCMkoewJlDUqDSqSn6SGMj152ykev5eKwOemqnfgyDGkdwHEYi0HT8vAnnvVH3cvpjt-xFsv4970yXaGui9X-S4UKW5fHJ9eAA0tPZMXe7Xqk8mnXW2eNFtQtRuLqpfJHJYiQKjG4xU32TNeJ1seyaju9rIArhdOanLbfFOg/s1600/thumbnail.png",
       "title": "Template Info Missing",
       "message": "The required 'templateInfo' field is missing. Please check your configuration."
     },
