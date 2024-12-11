@@ -3,7 +3,7 @@
     {
       "type": "missing_template_info",
       "title": "Template Info Missing",
-      "message": "The required 'templateInfo' field is missing. Please check your <a href='https://www.o.com'>configuration</a>."
+      "message": "The required 'templateInfo' field is missing. Please check your <a style='color:red' href='https://www.o.com'>configuration</a>."
     },
     {
       "type": "license_not_provided",
