@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+  <symbol id="lineBowl" viewBox="0 0 24 24">
+    <path d="M17.34,15v1.05a2,2,0,0,1-2,2H8.81a2,2,0,0,1-2-2V15m14.38-4.43a4,4,0,0,1-4,4H6.82a4,4,0,0,1-4-4V7a.5.5,0,0,1,.5-.5H20.69a.5.5,0,0,1,.5.5Z" style="fill:none;stroke:#292d32;stroke-miterlimit:10;stroke-width:1.5962725813280814px"/>
+  </symbol>
+  
+</svg>
